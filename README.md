@@ -1,4 +1,4 @@
-# B9 A10 Type-02 Requirements
+
 
 # categories 
 1. Painting and Drawing
@@ -15,5 +15,3 @@
 2. react-awesome-reveal
 3. react icon
 
-# CraftNest Web Site Live Site Url 
-- [https://art-craft-client-site.netlify.app/](https://art-craft-client-site.netlify.app/) 
